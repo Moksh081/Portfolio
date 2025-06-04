@@ -960,5 +960,10 @@ section {
     font-size: 4rem;
   }
 }
+.progress-icons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 8px;
+}
 
 /*# sourceMappingURL=styles.css.map */
